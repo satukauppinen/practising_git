@@ -13,3 +13,4 @@ piimä
 ananaspala
 kurkkusalaatti
 raejuusto
+kalapuikko
