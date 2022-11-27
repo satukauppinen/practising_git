@@ -13,4 +13,4 @@ piimä
 ananaspala
 kurkkusalaatti
 raejuusto
-kalapuikko
+kalapuikko and the second edit for the merging task
